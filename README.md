@@ -19,6 +19,7 @@ A clean and responsive React-based productivity app that combines the **Pomodoro
 
 ##  Preview
 
+![preview](https://github.com/user-attachments/assets/1797a9b3-4c42-4e27-8587-7e1b2ceb1608)
 
 
 ---
